@@ -4,15 +4,15 @@ repo: crb_foundry-upptime # The name of this repository
 
 sites:
   - name: Foundry VTT 001 
-    url: $foundry001
+    url: $FOUNDRY001
   - name: Foundry VTT 002 
-    url: $foundry002
+    url: $FOUNDRY002
   - name: Foundry VTT 003 
-    url: $foundry003
+    url: $FOUNDRY003
   - name: Foundry VTT 004 
-    url: $foundry004
+    url: $FOUNDRY004
   - name: Foundry VTT 005 
-    url: $foundry005
+    url: $FOUNDRY005
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
