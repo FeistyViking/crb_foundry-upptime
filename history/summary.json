@@ -4,9 +4,9 @@
     "url": "$FOUNDRY001",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "foundry-vtt-001",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,16 +15,18 @@
     "timeWeek": 242,
     "timeMonth": 189,
     "timeYear": 189,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-04-24": 0
+    }
   },
   {
     "name": "Foundry VTT 002",
     "url": "$FOUNDRY002",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "foundry-vtt-002",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,25 +35,29 @@
     "timeWeek": 239,
     "timeMonth": 190,
     "timeYear": 190,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-04-24": 0
+    }
   },
   {
     "name": "Foundry VTT 003",
     "url": "$FOUNDRY003",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "foundry-vtt-003",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 187,
-    "timeDay": 125,
-    "timeWeek": 239,
-    "timeMonth": 187,
-    "timeYear": 187,
-    "dailyMinutesDown": {}
+    "time": 188,
+    "timeDay": 165,
+    "timeWeek": 240,
+    "timeMonth": 188,
+    "timeYear": 188,
+    "dailyMinutesDown": {
+      "2023-04-24": 0
+    }
   },
   {
     "name": "Foundry VTT 004",
