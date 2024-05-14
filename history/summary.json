@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "foundry-vtt-001",
     "status": "down",
-    "uptime": "67.54%",
+    "uptime": "67.46%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "63.66%",
+    "uptimeYear": "63.52%",
     "time": 204,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 208,
     "dailyMinutesDown": {
-      "2024-05-13": 746,
+      "2024-05-14": 67,
+      "2024-05-13": 1440,
       "2024-05-12": 1440,
       "2024-05-11": 1440,
       "2024-05-10": 1440,
@@ -180,8 +181,7 @@
       "2023-06-12": 40,
       "2023-06-05": 68,
       "2023-05-29": 46,
-      "2023-05-22": 58,
-      "2023-05-15": 60
+      "2023-05-22": 58
     }
   },
   {
@@ -190,15 +190,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "foundry-vtt-002",
     "status": "up",
-    "uptime": "98.92%",
+    "uptime": "98.93%",
     "uptimeDay": "95.49%",
-    "uptimeWeek": "62.66%",
+    "uptimeWeek": "70.21%",
     "uptimeMonth": "91.00%",
     "uptimeYear": "98.82%",
     "time": 204,
-    "timeDay": 133,
-    "timeWeek": 142,
-    "timeMonth": 208,
+    "timeDay": 146,
+    "timeWeek": 150,
+    "timeMonth": 204,
     "timeYear": 207,
     "dailyMinutesDown": {
       "2024-05-13": 65,
@@ -253,8 +253,7 @@
       "2023-06-12": 40,
       "2023-06-05": 68,
       "2023-05-29": 31,
-      "2023-05-22": 50,
-      "2023-05-15": 68
+      "2023-05-22": 50
     }
   },
   {
@@ -269,9 +268,9 @@
     "uptimeMonth": "99.35%",
     "uptimeYear": "99.27%",
     "time": 198,
-    "timeDay": 232,
-    "timeWeek": 200,
-    "timeMonth": 204,
+    "timeDay": 221,
+    "timeWeek": 205,
+    "timeMonth": 200,
     "timeYear": 200,
     "dailyMinutesDown": {
       "2024-05-13": 74,
@@ -327,8 +326,7 @@
       "2023-06-12": 40,
       "2023-06-05": 68,
       "2023-05-29": 31,
-      "2023-05-22": 50,
-      "2023-05-15": 68
+      "2023-05-22": 50
     }
   },
   {
@@ -343,9 +341,9 @@
     "uptimeMonth": "99.40%",
     "uptimeYear": "99.49%",
     "time": 215,
-    "timeDay": 142,
-    "timeWeek": 174,
-    "timeMonth": 223,
+    "timeDay": 153,
+    "timeWeek": 177,
+    "timeMonth": 220,
     "timeYear": 220,
     "dailyMinutesDown": {
       "2024-05-13": 65,
@@ -398,8 +396,7 @@
       "2023-06-12": 33,
       "2023-06-05": 47,
       "2023-05-29": 24,
-      "2023-05-22": 35,
-      "2023-05-15": 58
+      "2023-05-22": 35
     }
   },
   {
@@ -408,15 +405,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "foundry-vtt-005",
     "status": "up",
-    "uptime": "86.64%",
+    "uptime": "86.66%",
     "uptimeDay": "94.88%",
-    "uptimeWeek": "62.57%",
+    "uptimeWeek": "70.12%",
     "uptimeMonth": "22.17%",
     "uptimeYear": "85.05%",
     "time": 190,
-    "timeDay": 196,
-    "timeWeek": 163,
-    "timeMonth": 179,
+    "timeDay": 189,
+    "timeWeek": 165,
+    "timeMonth": 164,
     "timeYear": 191,
     "dailyMinutesDown": {
       "2024-05-13": 74,
@@ -518,8 +515,7 @@
       "2023-06-12": 48,
       "2023-06-05": 60,
       "2023-05-29": 31,
-      "2023-05-22": 35,
-      "2023-05-15": 58
+      "2023-05-22": 35
     }
   }
 ]
