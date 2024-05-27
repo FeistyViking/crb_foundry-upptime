@@ -1,7 +1,7 @@
 url: $FOUNDRY004
-status: down
-code: 502
-responseTime: 139
-lastUpdated: 2024-05-27T11:19:43.128Z
+status: up
+code: 200
+responseTime: 695
+lastUpdated: 2024-05-27T11:35:55.685Z
 startTime: 2023-03-31T15:04:51.000Z
 generator: Upptime <https://github.com/upptime/upptime>
