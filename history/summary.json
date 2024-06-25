@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "foundry-vtt-001",
     "status": "down",
-    "uptime": "61.32%",
+    "uptime": "61.18%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "52.34%",
+    "uptimeYear": "52.07%",
     "time": 204,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 203,
     "dailyMinutesDown": {
-      "2024-06-24": 71,
+      "2024-06-25": 70,
+      "2024-06-24": 1440,
       "2024-06-23": 1440,
       "2024-06-22": 1440,
       "2024-06-21": 1440,
@@ -216,8 +217,7 @@
       "2023-07-24": 68,
       "2023-07-17": 76,
       "2023-07-10": 76,
-      "2023-07-03": 51,
-      "2023-06-26": 48
+      "2023-07-03": 51
     }
   },
   {
@@ -226,18 +226,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "foundry-vtt-002",
     "status": "down",
-    "uptime": "94.76%",
+    "uptime": "94.55%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "37.02%",
-    "uptimeYear": "93.61%",
+    "uptimeMonth": "33.73%",
+    "uptimeYear": "93.34%",
     "time": 208,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 283,
+    "timeMonth": 292,
     "timeYear": 210,
     "dailyMinutesDown": {
-      "2024-06-24": 72,
+      "2024-06-25": 70,
+      "2024-06-24": 1440,
       "2024-06-23": 1440,
       "2024-06-22": 1440,
       "2024-06-21": 1440,
@@ -307,8 +308,7 @@
       "2023-07-24": 68,
       "2023-07-17": 43,
       "2023-07-10": 83,
-      "2023-07-03": 59,
-      "2023-06-26": 40
+      "2023-07-03": 59
     }
   },
   {
@@ -317,18 +317,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "foundry-vtt-003",
     "status": "down",
-    "uptime": "95.35%",
+    "uptime": "95.14%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "40.20%",
-    "uptimeYear": "94.36%",
+    "uptimeMonth": "36.91%",
+    "uptimeYear": "94.09%",
     "time": 201,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 266,
+    "timeMonth": 275,
     "timeYear": 202,
     "dailyMinutesDown": {
-      "2024-06-24": 72,
+      "2024-06-25": 70,
+      "2024-06-24": 1440,
       "2024-06-23": 1440,
       "2024-06-22": 1440,
       "2024-06-21": 1440,
@@ -397,8 +398,7 @@
       "2023-07-24": 83,
       "2023-07-17": 76,
       "2023-07-10": 83,
-      "2023-07-03": 59,
-      "2023-06-26": 40
+      "2023-07-03": 59
     }
   },
   {
@@ -407,18 +407,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "foundry-vtt-004",
     "status": "down",
-    "uptime": "95.53%",
+    "uptime": "95.32%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "40.27%",
-    "uptimeYear": "94.55%",
+    "uptimeMonth": "36.98%",
+    "uptimeYear": "94.28%",
     "time": 220,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 326,
+    "timeMonth": 331,
     "timeYear": 226,
     "dailyMinutesDown": {
-      "2024-06-24": 72,
+      "2024-06-25": 70,
+      "2024-06-24": 1440,
       "2024-06-23": 1440,
       "2024-06-22": 1440,
       "2024-06-21": 1440,
@@ -485,8 +486,7 @@
       "2023-07-24": 62,
       "2023-07-17": 51,
       "2023-07-10": 83,
-      "2023-07-03": 67,
-      "2023-06-26": 40
+      "2023-07-03": 67
     }
   },
   {
@@ -495,18 +495,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "foundry-vtt-005",
     "status": "down",
-    "uptime": "83.83%",
+    "uptime": "83.64%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "40.28%",
-    "uptimeYear": "80.14%",
-    "time": 196,
+    "uptimeMonth": "37.00%",
+    "uptimeYear": "79.87%",
+    "time": 195,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 292,
-    "timeYear": 193,
+    "timeMonth": 304,
+    "timeYear": 192,
     "dailyMinutesDown": {
-      "2024-06-24": 72,
+      "2024-06-25": 70,
+      "2024-06-24": 1440,
       "2024-06-23": 1440,
       "2024-06-22": 1440,
       "2024-06-21": 1440,
@@ -620,8 +621,7 @@
       "2023-06-30": 1440,
       "2023-06-29": 1440,
       "2023-06-28": 1440,
-      "2023-06-27": 1440,
-      "2023-06-26": 768
+      "2023-06-27": 1440
     }
   }
 ]
