@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "foundry-vtt-001",
     "status": "down",
-    "uptime": "60.38%",
+    "uptime": "60.25%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "50.43%",
+    "uptimeYear": "50.16%",
     "time": 205,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 202,
     "dailyMinutesDown": {
-      "2024-07-01": 78,
+      "2024-07-02": 71,
+      "2024-07-01": 1440,
       "2024-06-30": 1440,
       "2024-06-29": 1440,
       "2024-06-28": 1440,
@@ -222,8 +223,7 @@
       "2023-07-31": 61,
       "2023-07-24": 68,
       "2023-07-17": 76,
-      "2023-07-10": 76,
-      "2023-07-03": 51
+      "2023-07-10": 76
     }
   },
   {
@@ -232,18 +232,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "foundry-vtt-002",
     "status": "down",
-    "uptime": "93.31%",
+    "uptime": "93.11%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "14.04%",
-    "uptimeYear": "91.70%",
+    "uptimeMonth": "10.77%",
+    "uptimeYear": "91.43%",
     "time": 208,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 274,
+    "timeMonth": 266,
     "timeYear": 209,
     "dailyMinutesDown": {
-      "2024-07-01": 78,
+      "2024-07-02": 71,
+      "2024-07-01": 1440,
       "2024-06-30": 1440,
       "2024-06-29": 1440,
       "2024-06-28": 1440,
@@ -319,8 +320,7 @@
       "2023-07-31": 61,
       "2023-07-24": 68,
       "2023-07-17": 43,
-      "2023-07-10": 83,
-      "2023-07-03": 59
+      "2023-07-10": 83
     }
   },
   {
@@ -329,18 +329,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "foundry-vtt-003",
     "status": "down",
-    "uptime": "93.89%",
+    "uptime": "93.68%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "17.33%",
-    "uptimeYear": "92.45%",
+    "uptimeMonth": "14.06%",
+    "uptimeYear": "92.18%",
     "time": 201,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 270,
+    "timeMonth": 262,
     "timeYear": 202,
     "dailyMinutesDown": {
-      "2024-07-01": 78,
+      "2024-07-02": 71,
+      "2024-07-01": 1440,
       "2024-06-30": 1440,
       "2024-06-29": 1440,
       "2024-06-28": 1440,
@@ -415,8 +416,7 @@
       "2023-07-31": 61,
       "2023-07-24": 83,
       "2023-07-17": 76,
-      "2023-07-10": 83,
-      "2023-07-03": 59
+      "2023-07-10": 83
     }
   },
   {
@@ -425,18 +425,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "foundry-vtt-004",
     "status": "down",
-    "uptime": "94.07%",
+    "uptime": "93.86%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "17.28%",
-    "uptimeYear": "92.64%",
+    "uptimeMonth": "14.01%",
+    "uptimeYear": "92.37%",
     "time": 220,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 293,
+    "timeMonth": 295,
     "timeYear": 225,
     "dailyMinutesDown": {
-      "2024-07-01": 78,
+      "2024-07-02": 71,
+      "2024-07-01": 1440,
       "2024-06-30": 1440,
       "2024-06-29": 1440,
       "2024-06-28": 1440,
@@ -509,8 +510,7 @@
       "2023-07-31": 45,
       "2023-07-24": 62,
       "2023-07-17": 51,
-      "2023-07-10": 83,
-      "2023-07-03": 67
+      "2023-07-10": 83
     }
   },
   {
@@ -519,18 +519,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "foundry-vtt-005",
     "status": "down",
-    "uptime": "82.54%",
+    "uptime": "82.36%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "17.37%",
+    "uptimeMonth": "14.10%",
     "uptimeYear": "79.48%",
-    "time": 195,
+    "time": 194,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 313,
+    "timeMonth": 310,
     "timeYear": 193,
     "dailyMinutesDown": {
-      "2024-07-01": 78,
+      "2024-07-02": 71,
+      "2024-07-01": 1440,
       "2024-06-30": 1440,
       "2024-06-29": 1440,
       "2024-06-28": 1440,
@@ -644,8 +645,7 @@
       "2023-07-07": 1440,
       "2023-07-06": 1440,
       "2023-07-05": 1440,
-      "2023-07-04": 1440,
-      "2023-07-03": 1440
+      "2023-07-04": 1440
     }
   }
 ]
