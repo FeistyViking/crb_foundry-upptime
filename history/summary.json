@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "foundry-vtt-001",
     "status": "down",
-    "uptime": "37.45%",
+    "uptime": "37.40%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 223,
+    "time": 221,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-07": 100,
+      "2025-04-08": 97,
+      "2025-04-07": 1440,
       "2025-04-06": 1440,
       "2025-04-05": 1440,
       "2025-04-04": 1440,
@@ -379,8 +380,7 @@
       "2024-04-12": 1440,
       "2024-04-11": 1440,
       "2024-04-10": 1440,
-      "2024-04-09": 1440,
-      "2024-04-08": 1440
+      "2024-04-09": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "foundry-vtt-002",
     "status": "down",
-    "uptime": "57.88%",
+    "uptime": "57.80%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "15.35%",
+    "uptimeYear": "15.08%",
     "time": 216,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 231,
+    "timeYear": 233,
     "dailyMinutesDown": {
-      "2025-04-07": 100,
+      "2025-04-08": 97,
+      "2025-04-07": 1440,
       "2025-04-06": 1440,
       "2025-04-05": 1440,
       "2025-04-04": 1440,
@@ -718,8 +719,7 @@
       "2024-05-06": 737,
       "2024-04-29": 37,
       "2024-04-22": 50,
-      "2024-04-15": 48,
-      "2024-04-08": 33
+      "2024-04-15": 48
     }
   },
   {
@@ -728,18 +728,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "foundry-vtt-003",
     "status": "down",
-    "uptime": "58.24%",
+    "uptime": "58.16%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "16.31%",
+    "uptimeYear": "16.03%",
     "time": 217,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 227,
+    "timeYear": 228,
     "dailyMinutesDown": {
-      "2025-04-07": 100,
+      "2025-04-08": 97,
+      "2025-04-07": 1440,
       "2025-04-06": 1440,
       "2025-04-05": 1440,
       "2025-04-04": 1440,
@@ -1053,8 +1054,7 @@
       "2024-05-06": 55,
       "2024-04-29": 59,
       "2024-04-22": 50,
-      "2024-04-15": 48,
-      "2024-04-08": 48
+      "2024-04-15": 48
     }
   },
   {
@@ -1063,18 +1063,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "foundry-vtt-004",
     "status": "down",
-    "uptime": "58.35%",
+    "uptime": "58.27%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "16.32%",
-    "time": 240,
+    "uptimeYear": "16.04%",
+    "time": 236,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 248,
+    "timeYear": 250,
     "dailyMinutesDown": {
-      "2025-04-07": 100,
+      "2025-04-08": 97,
+      "2025-04-07": 1440,
       "2025-04-06": 1440,
       "2025-04-05": 1440,
       "2025-04-04": 1440,
@@ -1388,8 +1389,7 @@
       "2024-05-06": 39,
       "2024-04-29": 52,
       "2024-04-22": 50,
-      "2024-04-15": 55,
-      "2024-04-08": 48
+      "2024-04-15": 55
     }
   },
   {
@@ -1398,18 +1398,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "foundry-vtt-005",
     "status": "down",
-    "uptime": "51.20%",
+    "uptime": "51.13%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "9.88%",
-    "time": 205,
+    "uptimeYear": "9.60%",
+    "time": 206,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 228,
+    "timeYear": 231,
     "dailyMinutesDown": {
-      "2025-04-07": 100,
+      "2025-04-08": 97,
+      "2025-04-07": 1440,
       "2025-04-06": 1440,
       "2025-04-05": 1440,
       "2025-04-04": 1440,
@@ -1744,8 +1745,7 @@
       "2024-04-18": 1440,
       "2024-04-17": 1440,
       "2024-04-16": 1440,
-      "2024-04-15": 774,
-      "2024-04-08": 48
+      "2024-04-15": 774
     }
   }
 ]
